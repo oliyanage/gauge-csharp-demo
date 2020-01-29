@@ -1,0 +1,30 @@
+C:\Users\osural\Desktop\gauge-demo-csharp\obj\Any CPU\Debug\GaugeDemoCsharp.csprojAssemblyReference.cache
+C:\Users\osural\Desktop\gauge-demo-csharp\obj\Any CPU\Debug\GaugeDemoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\GaugeDemoCsharp.dll.config
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\GaugeDemoCsharp.dll
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\GaugeDemoCsharp.pdb
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\AngleSharp.dll
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\FluentAssertions.Core.dll
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\FluentAssertions.dll
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\Gauge.CSharp.Lib.dll
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\ICSharpCode.SharpZipLib.dll
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\System.Text.Encoding.CodePages.dll
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\WebDriver.dll
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\WebDriver.Support.dll
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\WebDriverManager.dll
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\AngleSharp.xml
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\FluentAssertions.pdb
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\FluentAssertions.xml
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\FluentAssertions.Core.pdb
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\FluentAssertions.Core.xml
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\ICSharpCode.SharpZipLib.pdb
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\ICSharpCode.SharpZipLib.xml
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\WebDriver.xml
+C:\Users\osural\Desktop\gauge-demo-csharp\gauge_bin\WebDriver.Support.xml
+C:\Users\osural\Desktop\gauge-demo-csharp\obj\Any CPU\Debug\GaugeDemoCsharp.csproj.CopyComplete
+C:\Users\osural\Desktop\gauge-demo-csharp\obj\Any CPU\Debug\GaugeDemoCsharp.dll
+C:\Users\osural\Desktop\gauge-demo-csharp\obj\Any CPU\Debug\GaugeDemoCsharp.pdb
