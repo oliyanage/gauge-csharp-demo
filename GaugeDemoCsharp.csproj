@@ -75,13 +75,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Pages\HomePage.cs" />
     <Compile Include="Pages\LoginPage.cs" />
     <Compile Include="Pages\Util\BaseClass.cs" />
     <Compile Include="Pages\Util\DriverFactory.cs" />
     <Compile Include="Pages\Util\PageFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Specifications\HomeSpecs.cs" />
     <Compile Include="Specifications\LogInSpecs.cs" />
   </ItemGroup>
   <ItemGroup>

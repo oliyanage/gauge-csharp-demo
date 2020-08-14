@@ -21,21 +21,7 @@ namespace GaugeDemoCsharp.Specifications
             loginPage.NavigateToUrl(url);
         }
 
-        [Step("And enter usernane and password <table>")]
-        public void AndEnterUsernaneAndPasswordTable(Table table)
-        {
-            foreach (var row in table.GetTableRows())
-            {
-                loginPage.EnterUserNamePassword(row.GetCell("username"), row.GetCell("password"));
-            }
-
-        }
-
-        [Step("When user click on login button")]
-        public void WhenUserClickOnLoginButton()
-        {
-            loginPage.ClickLoginButton();
-        }
+       
 
     
     }
